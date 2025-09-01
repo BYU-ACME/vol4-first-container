@@ -11,6 +11,7 @@ RUN apt-get update && \
         libgl1 libglib2.0-0 \
         ffmpeg \
         git unzip sudo \
+        vim nano \
     && rm -rf /var/lib/apt/lists/*
 
 
