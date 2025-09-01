@@ -1,6 +1,6 @@
 ########################  BASE PYTHON  ########################
 # Leave this unpinned for now, JAX will only work with the OS that pinned it
-FROM python:3.13-slim
+FROM python:3.13.5-slim
 
 
 ########################  SYSTEM PACKAGES  ###################
