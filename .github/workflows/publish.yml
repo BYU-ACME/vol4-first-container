@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/byu-acme/vol4-first-container:may2026
+          tags: ghcr.io/byu-acme/vol4-first-container:jun2026
           platforms: linux/amd64,linux/arm64
